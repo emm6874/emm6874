@@ -10,7 +10,7 @@ Developer, Programmer, C#, HTML, CSS, JS.
 <br>
 • Creating my own webpage (Adding CSS)
 
-## Extras
+ <h4> Other </h4>
 I normally scrap alot of projects if they are not good, and I normally code in my free time thats when I finished learning some of it.
 I like creating applications on C#, configuring things to make them better and even making more webpages to test my knowledge.
 <br>
