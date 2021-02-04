@@ -17,4 +17,6 @@ I like creating applications on C#, configuring things to make them better and e
 I don't just do Programming, I like Computing alot and I mostly focus on Programming but sometimes I can do other things.
 
 ## Discord 
-My Discord is emm#3196 and I normally accept incoming friend requests. 
+Discord - emm#3196
+<br>
+I normally accept incoming friend requests.
