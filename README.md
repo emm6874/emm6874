@@ -4,9 +4,12 @@ Preferred to be called emm.
 # Things about me
 • Started to learn Programming in November 2019
 <br>
+<br>
 • Created my own game in C# called ulo's Platform
 <br>
+<br>
 • Learning HTML, CSS and JS right now + C#
+<br>
 <br>
 • Creating my own webpage (Adding CSS)
 
