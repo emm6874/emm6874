@@ -1,5 +1,5 @@
 # emm
-Preferred to be called emm.
+Developer, Programmer, C#, HTML, CSS, JS.
 
 # Things about me
 • Started to learn Programming in November 2019
@@ -13,9 +13,8 @@ Preferred to be called emm.
 ## Extras
 I normally scrap alot of projects if they are not good, and I normally code in my free time thats when I finished learning some of it.
 I like creating applications on C#, configuring things to make them better and even making more webpages to test my knowledge.
-I don't just do Programming,
 <br>
-I like Computing alot and I mostly focus on Programming but sometimes I can do other things.
+I don't just do Programming, I like Computing alot and I mostly focus on Programming but sometimes I can do other things.
 
 ## Discord 
 My Discord is emm#3196 and I normally accept incoming friend requests. 
